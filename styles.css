@@ -1,0 +1,69 @@
+h1 {
+    font-family: "Maven Pro";
+    text-align: center;
+    color: white;
+  }
+  
+  html,
+  body {
+    margin: 0;
+    height: 100%;
+  }
+  
+  body {
+    background-image: url("background.jpg");
+    background-size: 100% 100%;
+    height: 100%;
+    width: 100%;
+  }
+  
+  select {
+    padding: 10px;
+    width: 93%;
+    margin: 0 auto;
+    font-family: "Maven Pro";
+    display: block;
+    border-radius: 5px;
+    background: #fff;
+  }
+  
+  input {
+    padding: 10px;
+    width: 90%;
+    margin: 0 auto;
+    font-family: "Maven Pro";
+    display: block;
+    border-radius: 5px;
+    background: #fff;
+  }
+  
+  form {
+    background-color: rgb(179, 178, 176, 0.6);
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 10px;
+    width: 93%;
+    margin: 0 auto;
+    display: block;
+    border-radius: 5px;
+    background: #fff;
+    font-family: "Maven Pro";
+    
+  }
+
+  ul {
+    background-color: whitesmoke;
+  }
+  
+  .remove__btn {
+    background-image: url("https://img.icons8.com/small/16/000000/waste.png");
+    background-repeat: no-repeat;
+    width: 55px;
+    
+
+  }
